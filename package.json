@@ -1,0 +1,19 @@
+{
+  "name": "graphql-test-express",
+  "version": "1.0.0",
+  "description": "Test project to get more familiar with graphql",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "repository": "https://github.com/jzohdi/graphql-express.git",
+  "author": "Jake Z",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.3"
+  }
+}
