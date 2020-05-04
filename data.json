@@ -1,0 +1,25 @@
+{
+  "groceryItems": [
+    {
+      "id": 2,
+      "name": "2% milk",
+      "quantity": 1,
+      "size": "gallon",
+      "preferredBrand": ""
+    },
+    {
+      "id": 3,
+      "name": "yellow onions",
+      "quantity": 3,
+      "size": "medium",
+      "preferredBrand": ""
+    },
+    {
+      "name": "carrots",
+      "quantity": 5,
+      "size": "large",
+      "preferredBrand": "",
+      "id": 4
+    }
+  ]
+}
